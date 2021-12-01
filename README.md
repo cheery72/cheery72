@@ -1,10 +1,15 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&text=HI!&color=black)
+![header](https://capsule-render.vercel.app/api?type=soft&text=HI!&color=white)
  <div align=center>
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://cheery7272.tistory.com/) -->
 	<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Android&logoColor=white"/>
   </div>
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheery72&show_icons=true&theme=radical)
 <!--
 **cheery72/cheery72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
