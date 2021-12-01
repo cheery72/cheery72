@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=KyeongMinKim&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=KyeongMin Kim&color=gradient)
  </div>
  
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://cheery7272.tistory.com/) -->
