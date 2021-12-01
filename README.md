@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=soft&text=HI!&color=black)
  <div align=center>
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://cheery7272.tistory.com/) -->
 	<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Android&logoColor=white"/>
