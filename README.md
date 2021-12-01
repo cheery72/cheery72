@@ -1,9 +1,8 @@
 ### Hi there 👋
 
  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://cheery7272.tistory.com/) 
-	
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://cheery7272.tistory.com/) -->
+	<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Android&logoColor=white"/>
   </div>
 
 <!--
