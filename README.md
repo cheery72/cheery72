@@ -1,6 +1,6 @@
  <h3 align="center">
    
-![header](https://capsule-render.vercel.app/api?type=soft&text=HI!&color=white)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&text=HI!&color=white) -->
 </h3>
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://cheery7272.tistory.com/) -->
