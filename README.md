@@ -17,7 +17,7 @@
 
 <h3 align="center">
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nutmy52)](https://solved.ac/hihiq)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihiq)](https://solved.ac/hihiq)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheery72&show_icons=true&theme=radical)
  
 </h3>
